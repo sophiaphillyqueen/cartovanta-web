@@ -53,13 +53,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
   </style>
 </head>
 <body>
-  <div id="cartovanta-legal-notice">
-    <h2>License and Source Notice</h2>
-    <p>This page was generated using <em>cartovanta-web</em>, software for interfacing CartoVanta with the web.</p>
-    <p><em>cartovanta-web</em> is free software: you may redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
-    <p>CartoVanta is distributed without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.</p>
-    <p><a href="https://github.com/CartoVanta/cartovanta-web.git">Get the CartoVanta source code</a></p>
-    <p><a href="https://www.gnu.org/licenses/agpl-3.0.html">View the GNU Affero General Public License</a></p>
+  <div id="cartovanta-legal-notice" role="note" aria-label="License and source notice"> <p>This page was generated using <em>cartovanta-web</em> licensed under terms of the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank" rel="noopener">Gnu AGPL version 3 or later</a>. <!-- Source and license information: --></p> <div id="cartovanta-legal-links"> <a href="https://github.com/CartoVanta/cartovanta-web.git" target="_blank" rel="noopener">Source</a> <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank" rel="noopener">License</a> </div>
   </div>
 
   <?php
